@@ -24,10 +24,10 @@
 ## 💻 Project
 |프로젝트명|역할|시작일|종료일|발주처|비고|
 |---|---|------|----|---|---|
-|시공간 연동 교육 메타버스 및 볼류메트릭 헬스케어 메타버스를 위한 기술 및 서비스 개발|AR 서비스 개발|2023.03|2023.12|한국전파진흥협회|  <a href="https://www.youtube.com/watch?v=o19jY0rnoRc&list=PLPcppWRsdoY2hGQQMM4IRvblQazTw-7IH&index=8"><img src="https://img.shields.io/badge/Link-556472?style=flat-square&logo=Linkfire&logoColor=white"/></a>|
+|시공간 연동 교육 메타버스 및 볼류메트릭 헬스케어 메타버스를 위한 기술 및 서비스 개발|AR 서비스 개발|2023.03|2023.12|한국전파진흥협회|<a href="https://www.youtube.com/watch?v=o19jY0rnoRc&list=PLPcppWRsdoY2hGQQMM4IRvblQazTw-7IH&index=8"><img src="https://img.shields.io/badge/Link-556472?style=flat-square&logo=Linkfire&logoColor=white"/></a>|
 |메타버스 기반 스포츠 플레이 트위닝 및 실감화 기술 개발|볼 데이터 연동 및 저장 기술 개발|2023.03|2024.12|문화체육관광부|연구개발과제번호 : RS-2022-KC000815|
-|지역지능화혁신인재양성(숭실대학교)|시대별 3D 공간 재구성 기법 개발|2023.03|2023.12|과학기술정보통신부 |등록번호 : C-2023-061595, C-2023-061596|
-|XR 트윈 기반 재활 훈련 콘텐츠 기술개발|RGB 카메라 기반 동작 감지 프로세스 설계 및 개발|2023.03|2024.12|과학기술정보통신부 |-|
+|지역지능화혁신인재양성(숭실대학교)|시대별 3D 공간 재구성 기법 개발|2023.03|2025.02|과학기술정보통신부|등록번호 : C-2023-061595, C-2023-061596|
+|XR 트윈 기반 재활 훈련 콘텐츠 기술개발|RGB 카메라 기반 동작 감지 프로세스 설계 및 개발|2023.03|2025.02|과학기술정보통신부|연구개발과제번호 : 2022000218|
 
 ## ✈️ 해외경험
 |경험|시작일|종료일|비고|
