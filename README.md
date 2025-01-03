@@ -2,6 +2,12 @@
 Welcome to my page!
 <br>I am currently studying the development of grapics technologies that enable interaction in an XR environment from Republic of Korea.</br>
 
+## ☑️ Technology
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green)
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+
 ## 🎓 Education
 |학위|학교|전공|학점|시작일|종료일|
 |---|------|----|---|----|----|
