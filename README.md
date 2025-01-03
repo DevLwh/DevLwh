@@ -1,4 +1,4 @@
-## 📚 Education
+## 🎓 Education
 |학위|학교|전공|학점|시작일|종료일|
 |---|------|----|---|----|----|
 |석사|숭실대학교|미디어학과|4.26/4.5|2023.03|2025.02|
@@ -18,7 +18,7 @@
 |자격증 명|응시일자|만료일자|
 |------|------|------|
   
-## 📓 Paper
+## 📑 Paper
 |논문 명|영문 명|발행일|정보|링크|
 |------|------|----|---|---|
 |3D Gaussian Splatting 기반 산수화풍 비사실적 렌더링 방법에 관한 연구|A Study on the Non-Photorealistic Rendering Method of Landscape Painting based on 3D Gaussian Splatting|2025.02|학위논문|<a href=""><img src="https://img.shields.io/badge/Link-556472?style=flat-square&logo=Linkfire&logoColor=white"/></a>|
@@ -31,8 +31,7 @@
 |---|---|------|----|---|---|
 
 
-
-## ✈️해외경험
+## ✈️ 해외경험
 |경험|시작일|종료일|비고|
 |---|------|----|---|
 |숭실대 지역 지능화 혁신 인재 양성 해외 단기 연수 프로그램 - Silicon Valley|2023.10|2023.10||
