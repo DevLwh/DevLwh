@@ -1,3 +1,7 @@
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="25" height="25" /> Thank you for visiting!
+Welcome to my page!
+<br>I am currently studying the development of grapics technologies that enable interaction in an XR environment from Republic of Korea.</br>
+
 ## 🎓 Education
 |학위|학교|전공|학점|시작일|종료일|
 |---|------|----|---|----|----|
@@ -5,7 +9,7 @@
 |학사|한성대학교|컴퓨터공학부|3.6/4.5|2020.03|2023.02|
 
 <!--
-## 🏫 Experience
+## 🏫 Previous Job
 |근무처|직급|담당업무|시작일|종료일| 
 |---|------|----|----|----|
 -->
@@ -31,12 +35,12 @@
 |지역지능화혁신인재양성(숭실대학교)|시대별 3D 공간 재구성 기법 개발|2023.03|2025.02|과학기술정보통신부|등록번호 : C-2023-061595, C-2023-061596|
 |XR 트윈 기반 재활 훈련 콘텐츠 기술개발|RGB 카메라 기반 동작 감지 프로세스 설계 및 개발|2023.03|2025.02|과학기술정보통신부|연구개발과제번호 : 2022000218|
 
-## 🎨 전시 경험
+## 🎨 Exhibition Experience
 |경험|역할|시작일|종료일|위치|비고|
 |---|---|------|----|---|---|
 |Korea Metaverse Festival 2023|실시간 얼굴 추적 기술 개발|2023.10|2023.10|서울 COEX 전시장 D홀|<a href="https://www.aitimes.com/news/articleView.html?idxno=154420"><img src="https://img.shields.io/badge/Link-556472?style=flat-square&logo=Linkfire&logoColor=white"/></a>|
 
-## ✈️ 해외경험
+## ✈️ Abroad Experience
 |경험|시작일|종료일|비고|
 |---|------|----|---|
 |숭실대 지역 지능화 혁신 인재 양성 해외 단기 연수 프로그램 - Silicon Valley|2023.10|2023.10||
