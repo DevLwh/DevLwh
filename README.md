@@ -13,7 +13,7 @@
 ## 🏢 Current
 |근무처|직급|담당업무|시작일|
 |---|------|----|----|
-|숭실대학교 GSC Lab|연구원||2023.03|2025.02| <a href="http://gsclab.kr"><img src="https://img.shields.io/badge/GSCLab-556472?style=flat-square&logo=NintendoGameCube&logoColor=white"/></a>
+|숭실대학교 GSC Lab|연구원|VR/AR 상호작용 기술 개발|2023.03|2025.02| <a href="http://gsclab.kr"><img src="https://img.shields.io/badge/GSCLab-556472?style=flat-square&logo=NintendoGameCube&logoColor=white"/></a>
 
 ## 📑 Paper
 |논문 명|영문 명|발행일|정보|링크|
