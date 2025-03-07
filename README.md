@@ -1,6 +1,6 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="25" height="25" /> Thank you for visiting!
 Welcome to my page!
-<br>I am currently studying the development of grapics technologies that enable interaction in an XR environment from Republic of Korea.</br>
+<br>I am currently developing AI-based healthcare solutions from Republic of Korea.</br>
 
 ## ☑️ Tools & Technology
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -19,9 +19,9 @@ Welcome to my page!
 |학사|한성대학교|컴퓨터공학부|3.6/4.5|2020.03|2023.02|
 
 ## 🏢 Current
-|근무처|직급|담당업무|시작일|
-|---|------|----|----|
-|(주)엠티에스컴퍼니|매니저|AI 기반 헬스케어 솔루션 개발|2025.03| <a href="http://gsclab.kr"><img src="https://img.shields.io/badge/GSCLab-556472?style=flat-square&logo=NintendoGameCube&logoColor=white"/></a>
+|근무처|직급|담당업무|시작일|비고|
+|---|------|----|----|----|
+|(주)엠티에스컴퍼니|매니저|AI 기반 헬스케어 솔루션 개발|2025.03|병역특례| <a href="http://gsclab.kr"><img src="https://img.shields.io/badge/GSCLab-556472?style=flat-square&logo=NintendoGameCube&logoColor=white"/></a>
 
 ## 📝 Work experience
 |근무처|직급|담당업무|시작일|종료일| 
