@@ -18,16 +18,15 @@ Welcome to my page!
 |석사|숭실대학교|미디어학과|4.26/4.5|2023.03|2025.02|
 |학사|한성대학교|컴퓨터공학부|3.6/4.5|2020.03|2023.02|
 
-<!--
-## 🏫 Previous Job
-|근무처|직급|담당업무|시작일|종료일| 
-|---|------|----|----|----|
--->
-
 ## 🏢 Current
 |근무처|직급|담당업무|시작일|
 |---|------|----|----|
-|숭실대학교 GSC Lab|연구원|XR 상호작용 기술 연구 개발|2023.03|2025.02| <a href="http://gsclab.kr"><img src="https://img.shields.io/badge/GSCLab-556472?style=flat-square&logo=NintendoGameCube&logoColor=white"/></a>
+|(주)엠티에스컴퍼니|매니저|AI 기반 헬스케어 솔루션 개발|2025.03| <a href="http://gsclab.kr"><img src="https://img.shields.io/badge/GSCLab-556472?style=flat-square&logo=NintendoGameCube&logoColor=white"/></a>
+
+## 📝 Work experience
+|근무처|직급|담당업무|시작일|종료일| 
+|---|------|----|----|----|
+|숭실대학교 GSC Lab|연구원|XR 상호작용 기술 연구 개발|2023.03|2025.02|
 
 ## 📑 Paper
 |논문 명|영문 명|발행일|정보|링크|
