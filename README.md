@@ -21,7 +21,7 @@ Welcome to my page!
 ## 🏢 Current
 |근무처|직급|담당업무|시작일|비고|
 |---|------|----|----|----|
-|(주)엠티에스컴퍼니|매니저|AI 기반 헬스케어 솔루션 개발|2025.03|병역특례| <a href="http://gsclab.kr"><img src="https://img.shields.io/badge/GSCLab-556472?style=flat-square&logo=NintendoGameCube&logoColor=white"/></a>
+|(주)엠티에스컴퍼니|사원|AI 기반 헬스케어 솔루션 개발|2025.03|병역특례| <a href="http://gsclab.kr"><img src="https://img.shields.io/badge/GSCLab-556472?style=flat-square&logo=NintendoGameCube&logoColor=white"/></a>
 
 ## 📝 Work experience
 |근무처|직급|담당업무|시작일|종료일| 
